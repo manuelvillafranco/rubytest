@@ -106,10 +106,10 @@
     <orderEntry type="library" scope="PROVIDED" name="puma (v5.6.8, RVM: ruby-3.2.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="pundit (v2.4.0, RVM: ruby-3.2.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="racc (v1.8.1, RVM: ruby-3.2.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rack (v3.1.7, RVM: ruby-3.2.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rack-session (v2.0.0, RVM: ruby-3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v2.2.9, RVM: ruby-3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-session (v1.0.2, RVM: ruby-3.2.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v2.1.0, RVM: ruby-3.2.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rackup (v2.1.0, RVM: ruby-3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rackup (v1.0.0, RVM: ruby-3.2.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails (v7.2.1, RVM: ruby-3.2.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v2.2.0, RVM: ruby-3.2.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.6.0, RVM: ruby-3.2.0) [gem]" level="application" />

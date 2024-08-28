@@ -1,7 +1,7 @@
 lock "~> 3.19.1"
 
 set :application, "myapp"
-set :repo_url, "/home/admiral/Documentos/ruby/myapp"
+set :repo_url, "https://github.com/manuelvillafranco/rubytest.git"
 set :deploy_to, "/home/root/#{fetch(:application)}"
 
 append :linked_files, "config/database.yml", "config/master.key"

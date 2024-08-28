@@ -7,7 +7,7 @@ gem "sprockets-rails"
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", ">= 1.4"
 # Use the Puma web server [https://github.com/puma/puma]
-gem "puma", ">= 5.0"
+gem "puma", "~> 5.6"
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails"
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
@@ -67,3 +67,4 @@ gem 'capistrano', '~> 3.19'
 gem 'capistrano-rails', '~> 1.6'
 gem 'capistrano-rvm', '~> 0.1.2'
 gem 'capistrano3-puma', '~> 5.0'
+gem "rack", "~> 2.2"
