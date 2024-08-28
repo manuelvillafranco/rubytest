@@ -329,8 +329,6 @@ GEM
       railties (>= 6.0.0)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2024.1)
-      tzinfo (>= 1.0.0)
     unicode-display_width (2.5.0)
     useragent (0.16.10)
     warden (1.2.9)
@@ -356,7 +354,7 @@ DEPENDENCIES
   bootsnap
   bootstrap (~> 5.3.0)
   brakeman
-  capistrano (~> 3.16)
+  capistrano (~> 3.19)
   capistrano-rails (~> 1.6)
   capistrano-rvm (~> 0.1.2)
   capistrano3-puma (~> 5.0)
