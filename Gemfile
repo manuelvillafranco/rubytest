@@ -67,4 +67,4 @@ gem 'capistrano', '~> 3.19'
 gem 'capistrano-rails', '~> 1.6'
 gem 'capistrano-rvm', '~> 0.1.2'
 gem 'capistrano3-puma', '~> 5.0'
-gem "rack", "~> 2.2"
+gem "rack", "~> 3.1"
